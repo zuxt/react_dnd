@@ -1,0 +1,11 @@
+.dragParent {
+  width: 8rem;
+  height: 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  cursor: grab;
+  user-select: none;
+}
